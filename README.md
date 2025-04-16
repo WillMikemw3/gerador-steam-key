@@ -7,7 +7,7 @@ Um gerador de chaves no estilo “hacker / Steam” que cria **2.000 códigos ú
 ## 📸 Demo
 
 <div align="center">
-  <img src="caminho/para/screenshot.png" alt="Screenshot do Gerador Hacker" width="600px">
+  <a href="https://ibb.co/39mJfq99"><img src="https://i.ibb.co/cShmbHSS/steam.jpg" alt="steam" border="0"></a>
 </div>
 
 ---
