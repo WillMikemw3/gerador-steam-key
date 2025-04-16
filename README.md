@@ -1,6 +1,6 @@
 # Gerador de Chaves Hacker
 
-Um gerador de chaves no estilo “hacker / Steam” que cria **2.000 códigos únicos** no formato `XXXXX-XXXXX-XXXXXX`, com interface dark-mode, efeitos neon/glitch e botão de “Copiar Tudo”. Ideal para demonstrações, testes ou como exemplo de front-end estilizado.
+Um gerador de chaves que cria **2.000 códigos únicos** no formato `XXXXX-XXXXX-XXXXXX`, com interface dark-mode, efeitos neon/glitch e botão de “Copiar Tudo”.
 
 ---
 
