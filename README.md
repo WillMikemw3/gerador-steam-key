@@ -1,35 +1,33 @@
-# Random Steam keys generator and checker
+# Gerador de Chaves Hacker
 
-## English
-This javascript code generates keys in format AAAAA-BBBBB-CCCCC and then saves it to array named "keys", to prevent generating same key twice.
+Um gerador de chaves no estilo “hacker / Steam” que cria **2.000 códigos únicos** no formato `XXXXX-XXXXX-XXXXXX`, com interface dark-mode, efeitos neon/glitch e botão de “Copiar Tudo”. Ideal para demonstrações, testes ou como exemplo de front-end estilizado.
 
-This code also check the keys gerenrated 
+---
 
-If you're lucky enough, there is a minimal chance, that the key will be valid!
+## 📸 Demo
 
-## Português
-Este código foi feito para gerar keys no formato AAAAA-BBBBB-CCCCC e depois salva-la numa array para evitar duplicação.
+<div align="center">
+  <img src="caminho/para/screenshot.png" alt="Screenshot do Gerador Hacker" width="600px">
+</div>
 
-Além de gerar, o código também checa se as keys estão válidas.
+---
 
-Se você tiver sorte, tem uma chance bem pequena, de a key ser válida!
+## 🚀 Funcionalidades
 
-# Usage
+- Geração de **2.000** chaves únicas por clique  
+- Formato fixo: **5 caracteres + hífen + 5 caracteres + hífen + 6 caracteres**  
+- Tema escuro com cores neon (verde)  
+- Efeito *glitch* no título  
+- Background “matrix” sutil via SVG  
+- Botões com animação de neón ao passar o mouse  
+- Área de texto para exibir e selecionar todas as chaves  
+- Botão **“Copiar Tudo”** para copiar rapidamente ao clipboard  
+- Logo customizável no topo
 
-## English
-[Click here](https://store.steampowered.com/account/registerkey) and login with you account.
+---
 
-Press CTRL+SHIFT+i or F12 to enter in DevTools of your navigator.
+## ⚙️ Como usar
 
-Finally, just paste the code of "main.js" into DevTools Console and wait.. it will gen & check 50 keys
-
-If Steam restrict your IP, just use VPN & private tab
-
-## Português
-[Clique aqui](https://store.steampowered.com/account/registerkey) e entre com a sua conta.
-
-Aperte CTRL+SHIFT+i ou F12 para abrir a DevTools do seu navegador.
-
-Copie o código de "main.js", cole no console e aguarde.. ele vai gerar e checar 50 keys
-
-Caso tome restrição de IP, é só usar VPN + guia anônima 
+1. Clone este repositório  
+   ```bash
+   git clone https://github.com/seu-usuario/gerador-hacker.git
